@@ -7,7 +7,7 @@ export default function Navigation() {
      <div className="w3-bar w3-light-grey">
     
   <Link to="/" className="w3-bar-item w3-button">Home</Link>
-  <Link to="/ecercises" className="w3-bar-item w3-button">Exercisies</Link>
+  <Link to="/exercises" className="w3-bar-item w3-button">Exercisies</Link>
   <Link to="/trafficklight" className="w3-bar-item w3-button">Traffick</Link>
   {/* <Link to="/link" className="w3-bar-item w3-button">Link 3</Link> */}
 </div>

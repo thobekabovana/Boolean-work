@@ -19,7 +19,7 @@ function App() {
         <Route path="/" element={<LayOut />}>
       
           <Route index element={<Home />} />
-          <Route path="*" element={<Exercises />} />
+          <Route path="exercises" element={<Exercises />} />
           <Route path="trafficklight" element={<TraffickLight />} />
       
           <Route path="*" element={<NoPage />} />

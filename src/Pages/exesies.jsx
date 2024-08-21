@@ -1,7 +1,7 @@
 import React from 'react';
 import CardNumber from '../components/cardNumber';
 import CardOdd from '../components/cardOdd';
-
+import CardWeek from '../components/cardWeek';
 
 
 export default function Exercises() {
@@ -18,9 +18,10 @@ export default function Exercises() {
     </div>
  </section>
 
-<div style={{display: "flex", gap: "20%" }} >
+<div style={{display: "flex", gap: "1%" }} >
 <CardNumber/>
 <CardOdd/>
+<CardWeek/>
 </div>
 
 
