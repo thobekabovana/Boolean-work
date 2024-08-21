@@ -1,9 +1,27 @@
-# React + Vite
+<img src="https://socialify.git.ci/thobekabovana/Boolean-work/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Boolean-work" width="640" height="320" />
+<h1>Boolean-Work</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Boolean-work
+Under every app in GitHub must be:
+Socialify picture
+Title = h1
+Description = p
+1:02
+## Run Locally
+Clone the project
+```bash
+  git clone https://github.com/thobekabovana/Boolean-work.git
+```
+Go to the project directory
+```bash
+  cd Boolean-work
+```
+Install dependencies
+```bash
+  npm install
+```
+Start the react server
+```bash
+  npm run dev
+```
+## Tech Stack
+**Client:** React JS, HTML5, JavaScript, CSS3
